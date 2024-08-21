@@ -20,7 +20,7 @@ to check the [documentation](https://conda.io/projects/conda/en/latest/user-guid
 
 ## Jupyter Lab Example
 
-Just run `jupyter lab` in the main folder. Open `Langhain-with-Snowflake-Cortex-Memory.ipynb`
+Just run `jupyter lab` in the main folder. Open `Langchain-with-Snowflake-Cortex-Memory.ipynb`
 
 ## Streamlit Lab Example
 
