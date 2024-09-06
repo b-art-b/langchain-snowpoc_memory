@@ -33,4 +33,4 @@ To work with PDF files
 library is needed. It supports multiple formats of files,
 so it is worth to check it out.
 
-> **Note**: This repo is for Medium blog post: TBD
+> **Note**: This repo is for Medium blog post: https://medium.com/snowflake/langchain-with-history-in-snowflake-7e82a23ae029
